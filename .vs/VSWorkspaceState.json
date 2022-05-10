@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\phones",
+    "\\src\\components\\phones\\dto",
+    "\\src\\components\\phones\\entities",
+    "\\src\\database"
+  ],
+  "SelectedNode": "\\src\\components\\phones\\entities\\phone.ts",
+  "PreviewInSolutionExplorer": false
+}
